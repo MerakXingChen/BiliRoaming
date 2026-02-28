@@ -36,6 +36,7 @@ An Xposed module that unblocks bangumi area limit of BILIBILI, and miscellaneous
 - 提取视频、直播封面
 - 自定义屏启动图
 
+
 # Features
 
 - Unlock bangumi area limit
